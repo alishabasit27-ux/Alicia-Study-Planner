@@ -1,4 +1,3 @@
-  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -79,7 +78,7 @@
             <a href="#" class="nav-link">☁️ Files</a>
         </div>
         <div class="glass">
-            <img src="https://i.pinimg.com/564x/57/9d/28/579d280d96570c6533d3d828a2a78f2e.jpg" style="width:100%; border-radius:15px; opacity:0.8;" alt="Vibe">
+            <img src="https://i.pinimg.com/736x/ef/d6/3c/efd63cda211c095a53f2ac004ff232f1.jpg" style="width:100%; border-radius:15px; opacity:0.8;" alt="Vibe">
             <p style="font-size: 0.75rem; margin-top: 10px; font-style: italic;">"Focus on your growth, Alicia."</p>
         </div>
     </aside>
@@ -99,11 +98,11 @@
             <h2>Current Courses</h2>
             <div class="course-grid">
                 <div class="course-card">
-                    <img src="https://static.vecteezy.com/system/resources/previews/007/920/582/non_2x/a-goal-without-a-plan-is-just-a-wish-quote-inspirational-motivating-quotes-free-vector.jpg" alt="Course">
+                    <img src="https://i.pinimg.com/736x/44/0c/0a/440c0ab4244c3bf91e796cd4d5c65fd5.jpg" alt="Course">
                     <div class="course-info"><h4>Subject 01</h4><p style="font-size:0.7rem;">Active: 2</p></div>
                 </div>
                 <div class="course-card">
-                    <img src="https://img.freepik.com/premium-vector/if-your-goals-scare-you-they-big-enough-inspirational-quotes-motivation-poster-typography_1162612-1720.jpg" alt="Course">
+                    <img src="https://i.pinimg.com/736x/b5/64/bc/b564bc13855f84ca0cb5a763ad8a995f.jpg" alt="Course">
                     <div class="course-info"><h4>Subject 02</h4><p style="font-size:0.7rem;">Exam in 10d</p></div>
                 </div>
             </div>
@@ -174,14 +173,14 @@
     <h2>Current Courses</h2>
     <div class="course-grid">
         <div class="course-card">
-            <img src="<img width="620" height="800" alt="image" src="https://img.picturequotes.com/2/333/332824/when-you-have-set-yourself-a-task-finish-it-quote-1.jpg" />" alt="Books">
+            <img src="<img width="620" height="800" alt="https://i.pinimg.com/736x/73/4a/63/734a6335a74c2b87af297fec97aaa6ca.jpg" />" alt="Books">
             <div class="course-info">
                 <h4>Course A</h4>
                 <p style="font-size:0.7rem;">2 Tasks Remaining</p>
             </div>
         </div>
         <div class="course-card">
-            <img src="https:" alt="Tech">
+            <img src="https://i.pinimg.com/736x/fa/a7/5a/faa75a0a4bfa227f93ea0250701de4c4.jpg" alt="Tech">
             <div class="course-info">
                 <h4>Course B</h4>
                 <p style="font-size:0.7rem;">Exams</p>
