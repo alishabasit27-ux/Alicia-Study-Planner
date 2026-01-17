@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alisha Studio | Academic Planner</title>
+    <title> "Alisha Studio | Academic Planner"</title>
     <style>
         :root {
             --primary: #f472b6;
@@ -173,7 +173,7 @@
     <h2>Current Courses</h2>
     <div class="course-grid">
         <div class="course-card">
-            <img src="<img width="620" height="800" alt="https://i.pinimg.com/736x/73/4a/63/734a6335a74c2b87af297fec97aaa6ca.jpg" />" alt="Books">
+            <img src="https://i.pinimg.com/736x/73/4a/63/734a6335a74c2b87af297fec97aaa6ca.jpg" alt="Books">
             <div class="course-info">
                 <h4>Course A</h4>
                 <p style="font-size:0.7rem;">2 Tasks Remaining</p>
