@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lumina Studio | Academic Planner</title>
+    <title>Alisha Studio | Academic Planner</title>
     <style>
         :root {
             --primary: #f472b6;
@@ -99,11 +99,11 @@
             <h2>Current Courses</h2>
             <div class="course-grid">
                 <div class="course-card">
-                    <img src="https://i.pinimg.com/564x/7e/8a/8d/7e8a8d6d539598282828282828282828.jpg" alt="Course">
+                    <img src="https://i.pinimg.com/200x150/03/25/97/0325974321c0a9d60bb1eed18a6f5243.jpg" alt="Course">
                     <div class="course-info"><h4>Subject 01</h4><p style="font-size:0.7rem;">Active: 2</p></div>
                 </div>
                 <div class="course-card">
-                    <img src="https://i.pinimg.com/564x/a4/6a/8b/a46a8b75388c4228968a35368a410f96.jpg" alt="Course">
+                    <img src="https://assets.sonary.com/wp-content/uploads/2024/06/26094502/Morning-Inspirational-Quote-from-John-Wooden.png" alt="Course">
                     <div class="course-info"><h4>Subject 02</h4><p style="font-size:0.7rem;">Exam in 10d</p></div>
                 </div>
             </div>
